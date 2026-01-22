@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![50d6f8518e1afff71f54cf4403cf2d15 (1)](https://github.com/user-attachments/assets/f0e824fe-f78b-4d7b-95e0-02e099ff4993)
+<div align="center">
+  <img src="50d6f8518e1afff71f54cf4403cf2d15 (1).gif" width="600" alt="My Profile GIF" />
+</div>

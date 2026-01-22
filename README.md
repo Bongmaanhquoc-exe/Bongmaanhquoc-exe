@@ -81,14 +81,36 @@ I'm a developer with a passion for creating immersive worlds and intelligent sys
 
 <br/>
 
+<h3 align="center">📫 Connect with me</h3>
+<div align="center">
+  <a href="https://www.facebook.com/username-cua-ban">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30"/>
+  </a>
+  
+  <a href="https://twitter.com/username-cua-ban">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30"/>
+  </a>
+
+  <a href="https://www.instagram.com/username-cua-ban">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30"/>
+  </a>
+
+  <a href="https://discord.gg/invite-code-hoac-username">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/username-cua-ban">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  
+  <a href="mailto:email-cua-ban@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+</div>
+
 <div align="center">
   <p><i>"Foul Tarnished, in search of the Elden Ring..."</i></p>
   <img src="https://img.shields.io/badge/Rank-Challenger-blue?style=flat-square" /> 
 </div>
 
-<div align="center">
-  <p>
-    <i>"Git commit, git push, and praise the Sun! 🌞"</i>
-  </p>
-  <img src="https://img.shields.io/badge/Status-Grinding_Rank-success?style=plastic" />
-</div>
+

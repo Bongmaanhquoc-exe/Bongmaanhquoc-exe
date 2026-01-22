@@ -46,8 +46,6 @@ I'm a developer with a passion for creating immersive worlds and intelligent sys
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -110,7 +108,6 @@ I'm a developer with a passion for creating immersive worlds and intelligent sys
 
 <div align="center">
   <p><i>"Foul Tarnished, in search of the Elden Ring..."</i></p>
-  <img src="https://img.shields.io/badge/Rank-Challenger-blue?style=flat-square" /> 
 </div>
 
 

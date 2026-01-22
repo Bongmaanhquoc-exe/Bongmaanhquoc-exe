@@ -105,33 +105,27 @@ const LongVu = {
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:---------------|:---------------|:--------|
-| **🎮 RPG Game Project** | Immersive 3D Action RPG with custom assets & mechanics | Unity, C#, Blender | [View →](#) |
-| **🤖 LoL Match Predictor** | ML model predicting League of Legends match outcomes | Python, Pandas, Scikit-learn | [View →](#) |
+| **🎮 RPG Game Project** | Immersive 3D Action RPG with custom assets & mechanics | Unity, C#, Blender |
+| **🤖 LoL Match Predictor** | ML model predicting League of Legends match outcomes | Python, Pandas, Scikit-learn |
 | **🎯 FPS Aim Trainer** | Realistic FPS mechanics with custom shooting system | Unity, C# | [View →](#) |
-| **📊 Data Analysis Tool** | Automated data cleaning & visualization pipeline | Python, Pandas, Matplotlib | [View →](#) |
+| **📊 Data Analysis Tool** | Automated data cleaning & visualization pipeline | Python, Pandas, Matplotlib |
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bongmaanhquoc-exe&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
 
 ### 📫 Connect With Me
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/username-cua-ban)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/long.vu.692112/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username-cua-ban)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/username-cua-ban)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/invite-code)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-cua-ban@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/username-cua-ban)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hailong2192004/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longdontcry@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/LongV563348)
 
 </div>
 

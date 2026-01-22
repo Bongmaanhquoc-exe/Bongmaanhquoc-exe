@@ -103,11 +103,11 @@ const LongVu = {
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
-|:-----------|:---------------|:---------------|:--------|
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:-----------|:---------------|:---------------|
 | **🎮 RPG Game Project** | Immersive 3D Action RPG with custom assets & mechanics | Unity, C#, Blender |
 | **🤖 LoL Match Predictor** | ML model predicting League of Legends match outcomes | Python, Pandas, Scikit-learn |
-| **🎯 FPS Aim Trainer** | Realistic FPS mechanics with custom shooting system | Unity, C# | [View →](#) |
+| **🎯 FPS Aim Trainer** | Realistic FPS mechanics with custom shooting system | Unity, C# |
 | **📊 Data Analysis Tool** | Automated data cleaning & visualization pipeline | Python, Pandas, Matplotlib |
 
 </div>

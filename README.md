@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="ten-file.gif" width="100%" style="border-radius: 10px;" alt="Cover GIF" />
   
-  <h1 align="center">Hi there, I'm <a href="https://github.com/username-cua-ban">Your Name</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 align="center">Hi there, I'm <a href="https://github.com/Bongmaanhquoc-exe">LongVu</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A2EF7&center=true&vCenter=true&width=435&lines=Game+Developer+(Unity+%2F+Blender);Machine+Learning+Researcher;Tarnished+%2F+Lampbearer;Badminton+Player+%F0%9F%8F%B8" alt="Typing SVG" />

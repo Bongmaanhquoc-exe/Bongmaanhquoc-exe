@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="50d6f8518e1afff71f54cf4403cf2d15 (1).gif" width="600" alt="My Profile GIF" />
+  <img src="50d6f8518e1afff71f54cf4403cf2d15 (1).gif" width="100%" alt="My Profile GIF" />
 </div>

@@ -89,7 +89,7 @@ const LongVu = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bongmaanhquoc-exe&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=9A2EF7&icon_color=9A2EF7&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bongmaanhquoc-exe&theme=dracula&hide_border=true&background=0D1117&ring=9A2EF7&fire=9A2EF7&currStreakLabel=9A2EF7" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Bongmaanhquoc-exe&theme=dracula&hide_border=true&background=0D1117&ring=9A2EF7&fire=9A2EF7&currStreakLabel=9A2EF7" />
 </div>
 
 <div align="center">
